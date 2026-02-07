@@ -6,8 +6,6 @@
 
 **CosmicStudio** is an interactive stellar evolution simulator that visualizes the life cycle of stars using real stellar physics equations.
 
-![CosmicStudio Screenshot](docs/screenshot.png)
-
 ## Features
 
 ### 🌟 Stellar Physics Engine
@@ -192,14 +190,14 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/CosmicStudio.git
+git clone https://github.com/bayramkotan/CosmicStudio.git
 cd CosmicStudio
 
-# Install in development mode
-pip install -e .
+# Install dependencies
+pip install -r requirements.txt
 
 # Run tests
-python -m pytest tests/
+python tests/test_physics.py
 ```
 
 ## References
@@ -219,11 +217,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-**Bayram**
-- PhD Candidate in Data Science & Machine Learning
-- Data & Cloud Architect
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+**Bayram Kotan**
+- PhD Candidate in Data Science & Cloud Architecture
+- Certifications: PMP®, Microsoft Azure, Cisco CCNA, ISC² CC
+- Research: Financial Crisis Prediction using NLP & Machine Learning
+- [GitHub](https://github.com/bayramkotan)
 
 ## Acknowledgments
 
